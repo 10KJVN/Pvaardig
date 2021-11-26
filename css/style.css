@@ -1,0 +1,17 @@
+body{ 
+    font-size: 20px;
+}
+
+h1{ 
+    font-size: 250%;
+}
+
+article{ 
+    width: 60vw;
+    background-color: blue;
+    margin: 0 auto;
+}
+
+img{ 
+    width:200px; 
+}
